@@ -1,0 +1,28 @@
+.chat-jump-bottom {
+  position: absolute;
+  bottom: 8px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 14px;
+  border: 1px solid var(--color-border-highlight, #7a7971);
+  border-radius: 6px;
+  background: var(--color-cool-5, #23222b);
+  color: var(--color-text-light-highlight, #f0f0e0);
+  font-size: 0.75rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+  transition: background 0.15s ease;
+  white-space: nowrap;
+}
+
+.chat-jump-bottom:hover {
+  background: var(--color-cool-4, #3e3e4a);
+}
+
+.chat-jump-bottom i {
+  font-size: 0.7rem;
+}
