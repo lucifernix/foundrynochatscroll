@@ -1,7 +1,7 @@
 {
   "id": "chat-no-autoscroll",
   "title": "Chat No Auto-Scroll",
-  "description": "Prevents the chat log from automatically scrolling to the bottom when a new message arrives, if the user has scrolled up to read earlier messages. A 'Jump to Bottom' button appears when new messages arrive while scrolled up.",
+  "description": "Prevents the chat log from automatically scrolling to the bottom when a new message arrives, if the user has scrolled up to read earlier messages.",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
