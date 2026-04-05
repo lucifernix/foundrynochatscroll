@@ -12,6 +12,8 @@
       "name": "Claude"
     }
   ],
+  "manifest": "https://raw.githubusercontent.com/lucifernix/chat-no-autoscroll/main/module.json",
+  "download": "https://github.com/YOUR_USERNAME/chat-no-autoscroll/archive/refs/heads/main.zip",
   "esmodules": [
     "scripts/chat-no-autoscroll.mjs"
   ],
