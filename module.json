@@ -12,8 +12,8 @@
       "name": "Claude"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/lucifernix/chat-no-autoscroll/main/module.json",
-  "download": "https://github.com/lucifernix/chat-no-autoscroll/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/lucifernix/foundrynochatscroll/main/module.json",
+  "download": "https://github.com/lucifernix/foundrynochatscroll/archive/refs/heads/main.zip"
   "esmodules": [
     "scripts/chat-no-autoscroll.mjs"
   ],
